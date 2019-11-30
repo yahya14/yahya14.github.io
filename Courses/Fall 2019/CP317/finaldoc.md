@@ -47,12 +47,8 @@
 * Verifiable and testable: you can tell when you've met the requirements
 
 
-
-
-
 ### A rapid prototype of the product GUI
 https://www.shopify.ca/partners/blog/rapid-prototyping
-
 
 
 #### An object-oriented analysis, including:
