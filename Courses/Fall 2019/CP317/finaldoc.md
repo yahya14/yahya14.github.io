@@ -1,28 +1,28 @@
-## A list of project members containing their last names, first names, WLU email addresses, and GitHub (or other versioning product) user name. The list must be in order by last name, first name.
+### A list of project members containing their last names, first names, WLU email addresses, and GitHub (or other versioning product) user name. The list must be in order by last name, first name.
 
 
-## A requirements document listing the product requirements (The course instructor is the project client)
+### A requirements document listing the product requirements (The course instructor is the project client)
 
 
-### 1. Introduction
-### 1.1 Purpose
-### 1.2 Scope
-### 1.3 Definitions, acronyms, and abbreviations
-### 1.4 References
-### 1.5 Overview
-### 2. Overall description
-### 2.1 Product perspective
-### 2.2 Product functions
-### 2.3 User characteristics
-### 2.4 Constraints
-### 2.5 Assumptions and dependencies
-### 3. Specific requirements 
+#### 1. Introduction
+#### 1.1 Purpose
+#### 1.2 Scope
+#### 1.3 Definitions, acronyms, and abbreviations
+#### 1.4 References
+#### 1.5 Overview
+#### 2. Overall description
+#### 2.1 Product perspective
+#### 2.2 Product functions
+#### 2.3 User characteristics
+#### 2.4 Constraints
+#### 2.5 Assumptions and dependencies
+#### 3. Specific requirements 
 
 ## An informal specification document  
 
-## Deliverable Objectives/Requirements Qualities
+### Deliverable Objectives/Requirements Qualities
 
-### Keep in mind that key objectives of a requirements document are to: 
+#### Keep in mind that key objectives of a requirements document are to: 
 * Document the customer's needs
 * Identify functional capabilities to be provided
 * Identify non-functional and environmental constraints that must be satisfied
@@ -32,7 +32,7 @@
 * Serve as a contract between customer and developer
 
 
-### In addition, keep in mind that a requirements document should possess the following qualities:
+#### In addition, keep in mind that a requirements document should possess the following qualities:
 
 * Complete: everything that is essential is described
 * Understandable: the "customer" can read it and be convinced that all his objectives and needs are adequately and accurately described
@@ -50,34 +50,34 @@
 
 
 
-## A rapid prototype of the product GUI
+### A rapid prototype of the product GUI
 https://www.shopify.ca/partners/blog/rapid-prototyping
 
 
 
-### An object-oriented analysis, including:
+#### An object-oriented analysis, including:
 * use-case models
 * class models
 * dynamic models
 
 
-### An object-oriented design, including:
+#### An object-oriented design, including:
 * interaction diagrams
 * detailed class diagrams
 * client design
 * detailed design
 
 
-### The implementation, including:
+#### The implementation, including:
 * coding standards
 * actual coding
 * module testing
 * integration testing
 
-## A project timeline
+### A project timeline
 
-## User documentation
+### User documentation
 
-## Documentation standards
+### Documentation standards
 
-## Student participation records
+### Student participation records
