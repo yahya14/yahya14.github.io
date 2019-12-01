@@ -18,7 +18,7 @@
 #### 2.5 Assumptions and dependencies
 #### 3. Specific requirements 
 
-## An informal specification document  
+### An informal specification document  
 
 ### Deliverable Objectives/Requirements Qualities
 
